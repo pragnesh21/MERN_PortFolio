@@ -9,7 +9,7 @@ const About = () => {
           <div className="row">
             <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-img">
               <img
-                src="https://lh3.googleusercontent.com/pw/ADCreHcMuKhY2g4UD2RA6em12JMXSt6XKjCKiL9ES4G39hmpJlZAoa7EqQ7_dkpzOuG3z1_Kcywd6SsaqcGE2n2vVLDzJHK6dT7PNCFosCiFYaTzejwwMwlwcNBrYRo-lzrd5Yv3p2NMA8dxXGsKeCfOP44sdmv7xIayJBkAfiKHsWVzSqbnbwuT0pc_ROXfEcSQ7KA_J-CDKV4XEzLmYASGnLbLsm4T1w_NtFsY-MA2I9BWwfCXvrl56MKhihRUHXXZb5Bj1E8jicVEQEZ-JmDUoFgxtN-nVwHEmdk7eQjVWvAUxE-8r4jnXds2xNPC11CAz7k_0aBUfayJyLOnw1v9AgmavlOtSWw7atPBgHRCw4LV3HMdm7K-s3hxi_S1uODVoCrPLvY0sD2Zbqd3Bucj_-OYBNYr5gQr8yFZRn64cIIq6pfBIyyqjJjp-LpczDfHhwM9IF4pVTQPL68REXmYHpjwCr4fUUhI8QBGhi71h2hmRtETRAmuxGMT0_Ls2ejgZ695TbA8ZQrbywOVkqE6Zk-XLESoMCIionkWAgO7t9taXoWfFC3OILaqjMnb8ipJuC6Gmq8qk1FzoGYE5x8c_ClxTLYd7EqKQWHtqERMCRUJBuu8pu1Xso9_P_QBuSZ8KEjmCaxHETUXIrukZnTDsshVI0nJNLTfbUn9tTj4Bw3ElqDkXwPQf1rvF4gNdbQ6Zw6HVH3VUnFrrdL9NEZiLFnQcVGDUXZiIOPvTDcXjyQz78-BDfxtWKU1CF-7Y7hWSe1bj_zV_Cgq8lJ5_SvysHTwhoGP7CXd9ixGIDue5iMFGIUryaBq9myJj_0sSjV-uI6l7zWmOR7WUcC7bGc7y7wfPnbkTOy9T9aOW-_oJlHuuEOFebFMpiB4gp1sRxvsX7JG0Vv2yx6xziqypd8c7w=w684-h857-s-no?authuser=0"
+                src="https://lh3.googleusercontent.com/pw/ADCreHfT_qJ16khHdb38CPZoAAwpgK-DKM0g6TdrQ3LMq8t96_qCQVNNWUeFBRB_818J3qK5O3PQ5YgxWy9Nz01DS5GCAhrmVgwD5YxSqnUcaCtMnhrC7Pcx60QbWL1K5gNS9G-YwE8KEusQUQiOpEp6L-EM=w684-h857-s-no?authuser=0"
                 alt="profile_pic"
               />
             </div>
