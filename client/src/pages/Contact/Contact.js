@@ -66,7 +66,7 @@ const Contact = () => {
           </a>
           &nbsp;&nbsp;
           <a href="https://github.com/pragnesh21" target="_blank" rel="noopener noreferrer">
-            <BsGithub color="black" size={30} className="ms-2" />
+            <BsGithub color="white" size={30} className="ms-2" />
           </a>
           &nbsp;&nbsp;
           <a href="https://www.instagram.com/21_2_pragnesh/" target="_blank" rel="noopener noreferrer">

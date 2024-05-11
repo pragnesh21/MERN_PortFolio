@@ -10,13 +10,13 @@ const Home = () => {
   const [theme, setTheme] = useTheme();
   //handle theme
   const handleTheme = () => {
-    setTheme((prevState) => (prevState === "light" ? "dark" : "light"));
+    setTheme((prevState) => (prevState === "dark" ? "light" : "dark"));
   };
   return (
     <>
       <div className="container-fluid home-container" id="home">
         <div className="theme-btn" onClick={handleTheme}>
-          {theme === "light" ? (
+          {theme === "dark" ? (
             <BsFillMoonStarsFill size={30} />
           ) : (
             <BsFillSunFill size={30} />
@@ -30,7 +30,7 @@ const Home = () => {
                 options={{
                   strings: [
                     "Full Stack Developer!",
-                    "Mern Stack Developer!",
+                    "MERN Stack Developer!",
                     "DotNet Developer!",
                   ],
                   autoStart: true,
@@ -43,7 +43,7 @@ const Home = () => {
             <div className="home-buttons">
               <a
                 className="btn btn-hire"
-                href="https://api.whatsapp.com/send?phone=8780036665"
+                href="https://api.whatsapp.com/send?phone=+918780036665"
                 rel="noreferrer"
                 target="_blank"
               > 
