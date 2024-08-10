@@ -49,7 +49,7 @@ const Home = () => {
               > 
 WhatsApp Me 
               </a>
-              <a className="btn btn-cv" href="https://drive.google.com/file/d/1cc_x9CWlI9R_Cy2FdnFuWEH_v88pMJnE/view?usp=sharing" download="Pragnesh_makwana.pdf">
+              <a style="display: none;"  className="btn btn-cv" href="https://drive.google.com/file/d/1cc_x9CWlI9R_Cy2FdnFuWEH_v88pMJnE/view?usp=sharing" download="Pragnesh_makwana.pdf">
                 My Resume
               </a>
             </div>
